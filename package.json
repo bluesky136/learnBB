@@ -1,0 +1,19 @@
+{
+  "name": "learnbb",
+  "version": "1.0.0",
+  "description": "dependency install",
+  "main": "index.js",
+  "scripts": {
+    "test": "module.exports = function(grunt) {"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluesky136/learnBB.git"
+  },
+  "author": "John Vong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluesky136/learnBB/issues"
+  },
+  "homepage": "https://github.com/bluesky136/learnBB#readme"
+}

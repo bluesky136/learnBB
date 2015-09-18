@@ -1,0 +1,24 @@
+{
+  "name": "GitHub",
+  "version": "0.0.0",
+  "authors": [
+    "bluesky136 <convongz@gmail.com>"
+  ],
+  "dependencies": {
+    "backbone": "latest",
+    "backbone.marionette": "marionette#~2.4.3",
+    "jquery": "latest",
+    "underscore": "latest"
+  },
+  "moduleType": [
+    ""
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
